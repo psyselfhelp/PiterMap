@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f6f8fa" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Петербург" />
+    <link rel="manifest" href="/PiterMap/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/PiterMap/icons/apple-touch-icon.png" />
+    <script>
+      let theme = matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'
+      try {
+        const saved = localStorage.getItem('piter-theme')
+        if (saved === 'dark' || saved === 'light') theme = saved
+      } catch {}
+      document.documentElement.dataset.theme = theme
+      document.documentElement.style.colorScheme = theme
+      document.querySelector('meta[name="theme-color"]').content = theme === 'dark' ? '#17252d' : '#f6f8fa'
+    </script>
+    <meta name="description" content="Трёхмерный атлас возраста зданий Санкт-Петербурга. Исследуйте город сквозь время и находите утраченные дома на исторической карте." />
+    <title>Петербург сквозь время — 3D-атлас города</title>
+    <link rel="icon" type="image/svg+xml" href="/PiterMap/favicon.svg" />
+    <script type="module" crossorigin src="/PiterMap/assets/index-D9IPHuqV.js"></script>
+    <link rel="modulepreload" crossorigin href="/PiterMap/assets/maplibre-wqmL2Hxp.js">
+    <link rel="modulepreload" crossorigin href="/PiterMap/assets/three-DNYHxwL5.js">
+    <link rel="stylesheet" crossorigin href="/PiterMap/assets/index-SJs4WsvI.css">
+  </head>
+  <body><div id="root"></div></body>
+</html>
