@@ -1,0 +1,4286 @@
+[
+  {
+    "id": "way/48437538",
+    "address": "Колокольная улица, 1",
+    "date": "конец XVIII — начало XIX в.; 1857–1858 — расширение; 1959 — надстройка",
+    "source": "https://www.citywalls.ru/house5144.html",
+    "title": "Citywalls · Особняк Набилковых — Жилой дом",
+    "kind": "citywalls",
+    "match": "reviewed-address"
+  },
+  {
+    "id": "relation/32587",
+    "source": "https://dominfospb.ru/dom/6959771",
+    "address": "г. Санкт-Петербург, ул. Большая Монетная, д. 23",
+    "date": "1910",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/1204609",
+    "source": "https://dominfospb.ru/dom/8003523",
+    "address": "г. Санкт-Петербург, линия. 8-я В.О., д. 37",
+    "date": "2007",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/1529657",
+    "source": "https://dominfospb.ru/dom/9057913",
+    "address": "г. Санкт-Петербург, лн. 1-я В.О., д. 54, к. В",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/1598166",
+    "source": "https://dominfospb.ru/dom/7699944",
+    "address": "г. Санкт-Петербург, пр-кт Невский, д. 95",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/1598169",
+    "source": "https://dominfospb.ru/dom/7713321",
+    "address": "г. Санкт-Петербург, ул. 1-я Советская, д. 12",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/1836413",
+    "source": "https://dominfospb.ru/dom/9319784",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 150, к. Б",
+    "date": "1879",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/1836414",
+    "source": "https://dominfospb.ru/dom/9319785",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 150, к. О",
+    "date": "1879",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/2278379",
+    "source": "https://dominfospb.ru/dom/9130713",
+    "address": "г. Санкт-Петербург, пр-кт Малый П.С., д. 12",
+    "date": "1898",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/2972320",
+    "source": "https://dominfospb.ru/dom/8349883",
+    "address": "г. Санкт-Петербург, ул. Оренбургская, д. 2",
+    "date": "2005",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/3014569",
+    "source": "https://dominfospb.ru/dom/6927648",
+    "address": "г. Санкт-Петербург, ул. Яхтенная, д. 10, к. 4",
+    "date": "1992",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/3323324",
+    "source": "https://dominfospb.ru/dom/6943030",
+    "address": "г. Санкт-Петербург, пр-кт Невский, д. 51, к. В",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/4043749",
+    "source": "https://dominfospb.ru/dom/9043685",
+    "address": "г. Санкт-Петербург, наб. Свердловская, д. 58",
+    "date": "2014",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/4270669",
+    "source": "https://dominfospb.ru/dom/8966421",
+    "address": "г. Санкт-Петербург, наб. Обводного канала, д. 108",
+    "date": "2014",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/4539258",
+    "source": "https://dominfospb.ru/dom/9102861",
+    "address": "г. Санкт-Петербург, ул. Кременчугская, д. 13, к. 1",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/4539264",
+    "source": "https://dominfospb.ru/dom/9106291",
+    "address": "г. Санкт-Петербург, ул. Кременчугская, д. 17, к. 2",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/4539265",
+    "source": "https://dominfospb.ru/dom/9106290",
+    "address": "г. Санкт-Петербург, ул. Кременчугская, д. 19, к. 3",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/6173603",
+    "source": "https://dominfospb.ru/dom/9058178",
+    "address": "г. Санкт-Петербург, лн. 8-я В.О., д. 53, к. Б",
+    "date": "1914",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/6447723",
+    "source": "https://dominfospb.ru/dom/9070924",
+    "address": "г. Санкт-Петербург, пр-кт Московский, д. 73, к. 5",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/6498262",
+    "source": "https://dominfospb.ru/dom/9015342",
+    "address": "г. Санкт-Петербург, ул. Глухая Зеленина, д. 6",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/6522926",
+    "source": "https://dominfospb.ru/dom/7708359",
+    "address": "г. Санкт-Петербург, пер. Таврический, д. 5",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/6915192",
+    "source": "https://dominfospb.ru/dom/9315886",
+    "address": "г. Санкт-Петербург, пр-кт Приморский, д. 52, к. 1",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/7350692",
+    "source": "https://dominfospb.ru/dom/9155991",
+    "address": "г. Санкт-Петербург, ул. Наличная, д. 36, к. 5",
+    "date": "1971",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/7828311",
+    "source": "https://dominfospb.ru/dom/9111827",
+    "address": "г. Санкт-Петербург, пр-кт Медиков, д. 10, к. 1",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/8092263",
+    "source": "https://dominfospb.ru/dom/7742736",
+    "address": "г. Санкт-Петербург, ул. Чапыгина, д. 3А",
+    "date": "1994",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/9817524",
+    "source": "https://dominfospb.ru/dom/8997178",
+    "address": "г. Санкт-Петербург, ул. Гончарная, д. 13 Б",
+    "date": "1894",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/9817543",
+    "source": "https://dominfospb.ru/dom/8977548",
+    "address": "г. Санкт-Петербург, ул. Гончарная, д. 19 лит.М",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/9817544",
+    "source": "https://dominfospb.ru/dom/8997184",
+    "address": "г. Санкт-Петербург, ул. Гончарная, д. 19 Л",
+    "date": "1843",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/9817546",
+    "source": "https://dominfospb.ru/dom/8977544",
+    "address": "г. Санкт-Петербург, ул. Гончарная, д. 19 лит.Д",
+    "date": "1843",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/9817550",
+    "source": "https://dominfospb.ru/dom/7689852",
+    "address": "г. Санкт-Петербург, ул. Гончарная, д. 23",
+    "date": "1870",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/9817553",
+    "source": "https://dominfospb.ru/dom/8997186",
+    "address": "г. Санкт-Петербург, ул. Гончарная, д. 23 В",
+    "date": "1881",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/10605620",
+    "source": "https://dominfospb.ru/dom/9110300",
+    "address": "г. Санкт-Петербург, ул. Гороховая, д. 54, к. В",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/10605625",
+    "source": "https://dominfospb.ru/dom/9110301",
+    "address": "г. Санкт-Петербург, ул. Гороховая, д. 56, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/10605628",
+    "source": "https://dominfospb.ru/dom/9319270",
+    "address": "г. Санкт-Петербург, ул. Гороховая, д. 60, к. Б",
+    "date": "1994",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/10605629",
+    "source": "https://dominfospb.ru/dom/9110302",
+    "address": "г. Санкт-Петербург, ул. Гороховая, д. 62, к. В",
+    "date": "1840",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/10605630",
+    "source": "https://dominfospb.ru/dom/9110303",
+    "address": "г. Санкт-Петербург, ул. Гороховая, д. 64, к. Б",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/10605631",
+    "source": "https://dominfospb.ru/dom/9110304",
+    "address": "г. Санкт-Петербург, ул. Гороховая, д. 66, к. Г",
+    "date": "1806",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/10605683",
+    "source": "https://dominfospb.ru/dom/9109857",
+    "address": "г. Санкт-Петербург, ул. Бородинская, д. 13, к. Б",
+    "date": "1939",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/11103888",
+    "source": "https://dominfospb.ru/dom/7044410",
+    "address": "г. Санкт-Петербург, пр-кт Лесной, д. 13/8б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/11647135",
+    "source": "https://dominfospb.ru/dom/7034293",
+    "address": "г. Санкт-Петербург, ул. Звенигородская, д. 6, к. В",
+    "date": "1826",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/12126172",
+    "source": "https://dominfospb.ru/dom/7716373",
+    "address": "г. Санкт-Петербург, ул. 6-я Советская, д. 10",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/12772396",
+    "source": "https://dominfospb.ru/dom/9058156",
+    "address": "г. Санкт-Петербург, лн. 13-я В.О., д. 58-60, к. Г",
+    "date": "1896",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/12903689",
+    "source": "https://dominfospb.ru/dom/9110295",
+    "address": "г. Санкт-Петербург, ул. Верейская, д. 22-24, к. Б",
+    "date": "1861",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/13165076",
+    "source": "https://dominfospb.ru/dom/9103772",
+    "address": "г. Санкт-Петербург, пр-кт Лабораторный, д. 20, к. 3",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/14585057",
+    "source": "https://dominfospb.ru/dom/6713647",
+    "address": "г. Санкт-Петербург, ул. Кропоткина, д. 15, к. Б",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/14692777",
+    "source": "https://dominfospb.ru/dom/7357238",
+    "address": "г. Санкт-Петербург, ул. Малая Пушкарская, д. 28",
+    "date": "1913",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/14893079",
+    "source": "https://dominfospb.ru/dom/8928446",
+    "address": "г. Санкт-Петербург, ул. Пионерская, д. 50",
+    "date": "2012",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/15411802",
+    "source": "https://dominfospb.ru/dom/7699923",
+    "address": "г. Санкт-Петербург, пр-кт Невский, д. 93",
+    "date": "1861",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/15411804",
+    "source": "https://dominfospb.ru/dom/7699969",
+    "address": "г. Санкт-Петербург, пр-кт Невский, д. 97",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/15432758",
+    "source": "https://dominfospb.ru/dom/7358329",
+    "address": "г. Санкт-Петербург, ул. Чапыгина, д. 5",
+    "date": "1936",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/15463872",
+    "source": "https://dominfospb.ru/dom/7653230",
+    "address": "г. Санкт-Петербург, пер. Нейшлотский, д. 7, к. Л",
+    "date": "1910",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/15966852",
+    "source": "https://dominfospb.ru/dom/7356074",
+    "address": "г. Санкт-Петербург, ул. Гагаринская, д. 12, к. Б",
+    "date": "1840",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/16122120",
+    "source": "https://dominfospb.ru/dom/9319760",
+    "address": "г. Санкт-Петербург, пр-кт Нарвский, д. 25, к. Ж",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/16122141",
+    "source": "https://dominfospb.ru/dom/9319756",
+    "address": "г. Санкт-Петербург, пр-кт Нарвский, д. 10, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/16998088",
+    "source": "https://dominfospb.ru/dom/7702902",
+    "address": "г. Санкт-Петербург, наб. Синопская, д. 30",
+    "date": "1878",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/17046154",
+    "source": "https://dominfospb.ru/dom/6752675",
+    "address": "г. Санкт-Петербург, наб. Обводного канала, д. 132, к. А",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/17332336",
+    "source": "https://dominfospb.ru/dom/9023946",
+    "address": "г. Санкт-Петербург, пр-кт Малый П.С., д. 55, к. Д",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/17339772",
+    "source": "https://dominfospb.ru/dom/7364861",
+    "address": "г. Санкт-Петербург, ул. Миллионная, д. 4/1, к. В",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/18132004",
+    "source": "https://dominfospb.ru/dom/9024798",
+    "address": "г. Санкт-Петербург, ул. Зверинская, д. 32, к. В",
+    "date": "1910",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/18178815",
+    "source": "https://dominfospb.ru/dom/7359285",
+    "address": "г. Санкт-Петербург, ул. Шпалерная, д. 7, к. Б",
+    "date": "1855",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/18182318",
+    "source": "https://dominfospb.ru/dom/7359293",
+    "address": "г. Санкт-Петербург, ул. Шпалерная, д. 33, к. Б",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/18336022",
+    "source": "https://dominfospb.ru/dom/7364892",
+    "address": "г. Санкт-Петербург, ул. Моховая, д. 20, к. Б",
+    "date": "1852",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/18370329",
+    "source": "https://dominfospb.ru/dom/8557820",
+    "address": "г. Санкт-Петербург, ул. Графтио, д. 3",
+    "date": "2007",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/18463441",
+    "source": "https://dominfospb.ru/dom/7036116",
+    "address": "г. Санкт-Петербург, ул. Разъезжая, д. 17, к. В",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/18872292",
+    "source": "https://dominfospb.ru/dom/7356005",
+    "address": "г. Санкт-Петербург, ул. Чайковского, д. 26, к. В",
+    "date": "1873",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/19575458",
+    "source": "https://dominfospb.ru/dom/7570187",
+    "address": "г. Санкт-Петербург, ул. Большая Московская, д. 5, к. Б",
+    "date": "1869",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/20014420",
+    "source": "https://dominfospb.ru/dom/7715706",
+    "address": "г. Санкт-Петербург, пр-кт Новочеркасский, д. 33, к. 2",
+    "date": "2010",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/20014445",
+    "source": "https://dominfospb.ru/dom/7710022",
+    "address": "г. Санкт-Петербург, пр-кт Новочеркасский, д. 33, к. 3",
+    "date": "2009",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "relation/21299018",
+    "source": "https://dominfospb.ru/dom/9098223",
+    "address": "г. Санкт-Петербург, ул. Чапаева, д. 18, лит. А",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/17564892",
+    "source": "https://dominfospb.ru/dom/7030077",
+    "address": "г. Санкт-Петербург, ул. Беринга, д. 22, к. 1",
+    "date": "1962",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/17565031",
+    "source": "https://dominfospb.ru/dom/9322986",
+    "address": "г. Санкт-Петербург, ул. Беринга, д. 32, к. 2",
+    "date": "1972",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/18503891",
+    "source": "https://dominfospb.ru/dom/7029362",
+    "address": "г. Санкт-Петербург, ул. Шевченко, д. 22, к. 2",
+    "date": "1964",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/22999166",
+    "source": "https://dominfospb.ru/dom/7694806",
+    "address": "г. Санкт-Петербург, ул. Кирочная, д. 28",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23156003",
+    "source": "https://dominfospb.ru/dom/7696489",
+    "address": "г. Санкт-Петербург, ул. Савушкина, д. 26, к. 2",
+    "date": "1951",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23239320",
+    "source": "https://dominfospb.ru/dom/9022074",
+    "address": "г. Санкт-Петербург, пр-кт Заневский, д. 28",
+    "date": "1965",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23243986",
+    "source": "https://dominfospb.ru/dom/8917874",
+    "address": "г. Санкт-Петербург, ул. Апрельская, д. 6, к. 2",
+    "date": "1966",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23244016",
+    "source": "https://dominfospb.ru/dom/9150860",
+    "address": "г. Санкт-Петербург, пр-кт Пискаревский, д. 17, к. 2",
+    "date": "1966",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23244020",
+    "source": "https://dominfospb.ru/dom/8981194",
+    "address": "г. Санкт-Петербург, пр-кт Пискаревский, д. 17, к. 1",
+    "date": "1966",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23249052",
+    "source": "https://dominfospb.ru/dom/8582993",
+    "address": "г. Санкт-Петербург, пр-кт Среднеохтинский, д. 44, к. 2",
+    "date": "1954",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23267842",
+    "source": "https://dominfospb.ru/dom/8882801",
+    "address": "г. Санкт-Петербург, ул. Панфилова, д. 16, лит.Б",
+    "date": "1949",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23282912",
+    "source": "https://dominfospb.ru/dom/8556786",
+    "address": "г. Санкт-Петербург, пр-кт Металлистов, д. 65",
+    "date": "1963",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23308292",
+    "source": "https://dominfospb.ru/dom/6711825",
+    "address": "г. Санкт-Петербург, пр-кт Мечникова, д. 8, к. 1",
+    "date": "1965",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23308293",
+    "source": "https://dominfospb.ru/dom/7044807",
+    "address": "г. Санкт-Петербург, пр-кт Мечникова, д. 8, к. 2",
+    "date": "1965",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23308311",
+    "source": "https://dominfospb.ru/dom/6711846",
+    "address": "г. Санкт-Петербург, ул. Замшина, д. 39, к. 2",
+    "date": "1964",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23308315",
+    "source": "https://dominfospb.ru/dom/7043512",
+    "address": "г. Санкт-Петербург, ул. Замшина, д. 39, к. 1",
+    "date": "1964",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23308661",
+    "source": "https://dominfospb.ru/dom/7044360",
+    "address": "г. Санкт-Петербург, пр-кт Кондратьевский, д. 81, к. 1",
+    "date": "1968",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23362789",
+    "source": "https://dominfospb.ru/dom/6711827",
+    "address": "г. Санкт-Петербург, пр-кт Металлистов, д. 112, к. 1",
+    "date": "1963",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23440792",
+    "source": "https://dominfospb.ru/dom/7696434",
+    "address": "г. Санкт-Петербург, пр-кт Приморский, д. 35",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23550897",
+    "source": "https://dominfospb.ru/dom/7696531",
+    "address": "г. Санкт-Петербург, ул. Савушкина, д. 60",
+    "date": "1958",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/23688061",
+    "source": "https://dominfospb.ru/dom/7696454",
+    "address": "г. Санкт-Петербург, пр-кт Приморский, д. 93",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/24882062",
+    "source": "https://dominfospb.ru/dom/8073625",
+    "address": "г. Санкт-Петербург, ул. Комсомола, д. 14, к. 2",
+    "date": "2009",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/27781502",
+    "source": "https://dominfospb.ru/dom/7695491",
+    "address": "г. Санкт-Петербург, наб. Черной речки, д. 49",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/27781527",
+    "source": "https://dominfospb.ru/dom/7931244",
+    "address": "г. Санкт-Петербург, ул. Торжковская, д. 1, к. 2",
+    "date": "2002",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/28057221",
+    "source": "https://dominfospb.ru/dom/7651339",
+    "address": "г. Санкт-Петербург, пр-кт Лесной, д. 37, к. 3",
+    "date": "1931",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/28691445",
+    "source": "https://dominfospb.ru/dom/9059094",
+    "address": "г. Санкт-Петербург, лн. Кадетская В.О., д. 7/2, к. Б",
+    "date": "1841",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/28692596",
+    "source": "https://dominfospb.ru/dom/8926853",
+    "address": "г. Санкт-Петербург, пр-кт Аптекарский, д. 10, к. Б",
+    "date": "1898",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/28735108",
+    "source": "https://dominfospb.ru/dom/9318302",
+    "address": "г. Санкт-Петербург, ул. Профессора Попова, д. 1",
+    "date": "1950",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/28861887",
+    "source": "https://dominfospb.ru/dom/8985453",
+    "address": "г. Санкт-Петербург, ул. Астраханская, д. 32, к. Б",
+    "date": "1909",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/28863905",
+    "source": "https://dominfospb.ru/dom/9390957",
+    "address": "г. Санкт-Петербург, пер. Нейшлотский, д. 5, к. Б",
+    "date": "1846",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/29076320",
+    "source": "https://dominfospb.ru/dom/7699260",
+    "address": "г. Санкт-Петербург, ул. Миргородская, д. 14",
+    "date": "1913",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/29619858",
+    "source": "https://dominfospb.ru/dom/7350478",
+    "address": "г. Санкт-Петербург, ул. Ольминского, д. 24",
+    "date": "1960",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/29624943",
+    "source": "https://dominfospb.ru/dom/7350488",
+    "address": "г. Санкт-Петербург, ул. Ольминского, д. 32",
+    "date": "1959",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/30122857",
+    "source": "https://dominfospb.ru/dom/7688261",
+    "address": "г. Санкт-Петербург, ул. Бонч-Бруевича, д. 3",
+    "date": "1952",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/30174118",
+    "source": "https://dominfospb.ru/dom/8997263",
+    "address": "г. Санкт-Петербург, пер. Дегтярный, д. 22 В",
+    "date": "1897",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/30198414",
+    "source": "https://dominfospb.ru/dom/7708506",
+    "address": "г. Санкт-Петербург, ул. Тверская, д. 18",
+    "date": "1957",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/30198415",
+    "source": "https://dominfospb.ru/dom/7705774",
+    "address": "г. Санкт-Петербург, ул. Ставропольская, д. 1",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/30198631",
+    "source": "https://dominfospb.ru/dom/8997065",
+    "address": "г. Санкт-Петербург, ул. Таврическая, д. 2 Г",
+    "date": "1963",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/30350466",
+    "source": "https://dominfospb.ru/dom/8997035",
+    "address": "г. Санкт-Петербург, ул. Тверская, д. 14 Б",
+    "date": "1908",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/30350467",
+    "source": "https://dominfospb.ru/dom/7708455",
+    "address": "г. Санкт-Петербург, ул. Тверская, д. 12/15",
+    "date": "1900",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/31672451",
+    "source": "https://dominfospb.ru/dom/7937428",
+    "address": "г. Санкт-Петербург, ул. Яхтенная, д. 1, к. 1",
+    "date": "2006",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/31672453",
+    "source": "https://dominfospb.ru/dom/7937445",
+    "address": "г. Санкт-Петербург, ул. Яхтенная, д. 3, к. 1",
+    "date": "2006",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/32862507",
+    "source": "https://dominfospb.ru/dom/9002199",
+    "address": "г. Санкт-Петербург, ул. Карташихина, д. 4",
+    "date": "1968",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/35133499",
+    "source": "https://dominfospb.ru/dom/8925641",
+    "address": "г. Санкт-Петербург, ул. Зверинская, д. 24, к. Д",
+    "date": "1898",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/36569991",
+    "source": "https://dominfospb.ru/dom/9354050",
+    "address": "г. Санкт-Петербург, пр-кт Аптекарский, д. 8, к. А",
+    "date": "1911",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/36936154",
+    "source": "https://dominfospb.ru/dom/8997004",
+    "address": "г. Санкт-Петербург, ул. 2-я Советская, д. 18 В",
+    "date": "1959",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/38614554",
+    "source": "https://dominfospb.ru/dom/6945149",
+    "address": "г. Санкт-Петербург, ул. Ломоносова, д. 26, к. В",
+    "date": "1859",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/40118303",
+    "source": "https://dominfospb.ru/dom/9344472",
+    "address": "г. Санкт-Петербург, ул. Большая Пушкарская, д. 26, к. Б",
+    "date": "1900",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/43681145",
+    "source": "https://dominfospb.ru/dom/9344505",
+    "address": "г. Санкт-Петербург, ул. Куйбышева, д. 12, к. Б",
+    "date": "1915",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/44389558",
+    "source": "https://dominfospb.ru/dom/8506606",
+    "address": "г. Санкт-Петербург, пр-кт Крестовский, д. 15",
+    "date": "2005",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/45199902",
+    "source": "https://dominfospb.ru/dom/9354762",
+    "address": "г. Санкт-Петербург, ул. Шевченко, д. 4",
+    "date": "1954",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/45573795",
+    "source": "https://dominfospb.ru/dom/6721936",
+    "address": "г. Санкт-Петербург, ул. Чапаева, д. 11/4",
+    "date": "1910",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/45743453",
+    "source": "https://dominfospb.ru/dom/9080084",
+    "address": "г. Санкт-Петербург, ул. Республиканская, д. 6",
+    "date": "2001",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/45750782",
+    "source": "https://dominfospb.ru/dom/6927802",
+    "address": "г. Санкт-Петербург, ул. Двинская, д. 14, лит. А",
+    "date": "1959",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/45967642",
+    "source": "https://dominfospb.ru/dom/7029234",
+    "address": "г. Санкт-Петербург, пр-кт Среднегаванский, д. 2/20, к. А",
+    "date": "1961",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/45967643",
+    "source": "https://dominfospb.ru/dom/7029236",
+    "address": "г. Санкт-Петербург, пр-кт Среднегаванский, д. 2/20, к. Б",
+    "date": "1961",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/47218012",
+    "source": "https://dominfospb.ru/dom/7701610",
+    "address": "г. Санкт-Петербург, ул. Новгородская, д. 7",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/50065047",
+    "source": "https://dominfospb.ru/dom/8921961",
+    "address": "г. Санкт-Петербург, ул. Резная, д. 19/8, к. А",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/50065321",
+    "source": "https://dominfospb.ru/dom/8661202",
+    "address": "г. Санкт-Петербург, пр-кт Динамо, д. 23",
+    "date": "1998",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/50340229",
+    "source": "https://dominfospb.ru/dom/7357345",
+    "address": "г. Санкт-Петербург, ул. Плуталова, д. 10",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/50441612",
+    "source": "https://dominfospb.ru/dom/7358129",
+    "address": "г. Санкт-Петербург, ул. Полозова, д. 10",
+    "date": "1911",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/50597533",
+    "source": "https://dominfospb.ru/dom/9319823",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 168, к. В",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/50730739",
+    "source": "https://dominfospb.ru/dom/7358319",
+    "address": "г. Санкт-Петербург, ул. Сытнинская, д. 12",
+    "date": "1960",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/51326868",
+    "source": "https://dominfospb.ru/dom/7702180",
+    "address": "г. Санкт-Петербург, ул. Полтавская, д. 8",
+    "date": "1888",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/51327093",
+    "source": "https://dominfospb.ru/dom/7702219",
+    "address": "г. Санкт-Петербург, ул. Полтавская, д. 12",
+    "date": "1878",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/51328506",
+    "source": "https://dominfospb.ru/dom/7700090",
+    "address": "г. Санкт-Петербург, пр-кт Невский, д. 107",
+    "date": "1952",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/51330136",
+    "source": "https://dominfospb.ru/dom/8997180",
+    "address": "г. Санкт-Петербург, ул. Гончарная, д. 18 В",
+    "date": "1871",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/51564129",
+    "source": "https://dominfospb.ru/dom/9039164",
+    "address": "г. Санкт-Петербург, пр-кт Большой П.С., д. 92, лит.Б",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/51564405",
+    "source": "https://dominfospb.ru/dom/7357282",
+    "address": "г. Санкт-Петербург, ул. Ординарная, д. 3а",
+    "date": "1894",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/52058416",
+    "source": "https://dominfospb.ru/dom/7358323",
+    "address": "г. Санкт-Петербург, ул. Сытнинская, д. 14",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/52059229",
+    "source": "https://dominfospb.ru/dom/9344486",
+    "address": "г. Санкт-Петербург, ул. Воскова, д. 22, к. Б",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/52059420",
+    "source": "https://dominfospb.ru/dom/9344503",
+    "address": "г. Санкт-Петербург, ул. Кропоткина, д. 17, к. Б",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53348206",
+    "source": "https://dominfospb.ru/dom/9344470",
+    "address": "г. Санкт-Петербург, ул. Большая Пушкарская, д. 19, к. Б",
+    "date": "1898",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53348208",
+    "source": "https://dominfospb.ru/dom/9344471",
+    "address": "г. Санкт-Петербург, ул. Большая Пушкарская, д. 21, к. Б",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53348209",
+    "source": "https://dominfospb.ru/dom/7358305",
+    "address": "г. Санкт-Петербург, ул. Саблинская, д. 3",
+    "date": "1896",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53348244",
+    "source": "https://dominfospb.ru/dom/9344475",
+    "address": "г. Санкт-Петербург, ул. Большая Пушкарская, д. 34, к. В",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53353433",
+    "source": "https://dominfospb.ru/dom/9344474",
+    "address": "г. Санкт-Петербург, ул. Большая Пушкарская, д. 34, к. Б",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53646325",
+    "source": "https://dominfospb.ru/dom/7027514",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 110, к. В",
+    "date": "1898",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53755270",
+    "source": "https://dominfospb.ru/dom/7032154",
+    "address": "г. Санкт-Петербург, наб. Обводного канала, д. 53, к. В",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53755276",
+    "source": "https://dominfospb.ru/dom/7033451",
+    "address": "г. Санкт-Петербург, наб. Обводного канала, д. 59, к. Д",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53755284",
+    "source": "https://dominfospb.ru/dom/7033469",
+    "address": "г. Санкт-Петербург, ул. Черняховского, д. 5, к. Б",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53755285",
+    "source": "https://dominfospb.ru/dom/7033471",
+    "address": "г. Санкт-Петербург, ул. Черняховского, д. 5, к. В",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53755287",
+    "source": "https://dominfospb.ru/dom/7033488",
+    "address": "г. Санкт-Петербург, ул. Черняховского, д. 11, к. В",
+    "date": "1900",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53755299",
+    "source": "https://dominfospb.ru/dom/7032139",
+    "address": "г. Санкт-Петербург, наб. Обводного канала, д. 51, к. Г",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/53804252",
+    "source": "https://dominfospb.ru/dom/7020992",
+    "address": "г. Санкт-Петербург, пр-кт Московский, д. 78, к. В",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/54633955",
+    "source": "https://dominfospb.ru/dom/7039448",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 131, к. Б",
+    "date": "1909",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/54633958",
+    "source": "https://dominfospb.ru/dom/7039451",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 133, к. Б",
+    "date": "1913",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/55497352",
+    "source": "https://dominfospb.ru/dom/7937455",
+    "address": "г. Санкт-Петербург, ул. Яхтенная, д. 3, к. 2",
+    "date": "2007",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/55497353",
+    "source": "https://dominfospb.ru/dom/7572547",
+    "address": "г. Санкт-Петербург, пр-кт Приморский, д. 137, к. 2",
+    "date": "2008",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/55828436",
+    "source": "https://dominfospb.ru/dom/7039467",
+    "address": "г. Санкт-Петербург, ул. Боровая, д. 20, к. Д",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/55920401",
+    "source": "https://dominfospb.ru/dom/7036932",
+    "address": "г. Санкт-Петербург, ул. Боровая, д. 8, к. З",
+    "date": "1856",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/55920426",
+    "source": "https://dominfospb.ru/dom/7036971",
+    "address": "г. Санкт-Петербург, ул. Разъезжая, д. 31, к. Б",
+    "date": "1862",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/56018017",
+    "source": "https://dominfospb.ru/dom/9024825",
+    "address": "г. Санкт-Петербург, ул. Красного Курсанта, д. 15/2, к. Б",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/56077110",
+    "source": "https://dominfospb.ru/dom/7027017",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 68, к. В",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/56077113",
+    "source": "https://dominfospb.ru/dom/7027016",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 68, к. Б",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/58199823",
+    "source": "https://dominfospb.ru/dom/9150921",
+    "address": "г. Санкт-Петербург, пр-кт Малый П.С., д. 55, к. В",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/59454142",
+    "source": "https://dominfospb.ru/dom/7355799",
+    "address": "г. Санкт-Петербург, ул. Бармалеева, д. 7",
+    "date": "1897",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/59526759",
+    "source": "https://dominfospb.ru/dom/7357820",
+    "address": "г. Санкт-Петербург, ул. Подрезова, д. 4",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/59526763",
+    "source": "https://dominfospb.ru/dom/7357796",
+    "address": "г. Санкт-Петербург, ул. Подковырова, д. 7",
+    "date": "1914",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/59534223",
+    "source": "https://dominfospb.ru/dom/9149998",
+    "address": "г. Санкт-Петербург, ул. Ленина, д. 22",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60131111",
+    "source": "https://dominfospb.ru/dom/9024677",
+    "address": "г. Санкт-Петербург, ул. Стрельнинская, д. 2, к. В",
+    "date": "1888",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60256507",
+    "source": "https://dominfospb.ru/dom/9344478",
+    "address": "г. Санкт-Петербург, ул. Большая Пушкарская, д. 54, к. Д",
+    "date": "1914",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60913176",
+    "source": "https://dominfospb.ru/dom/6949329",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 85, к. Б",
+    "date": "1873",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60913183",
+    "source": "https://dominfospb.ru/dom/8009336",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 83, к. Б",
+    "date": "1879",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60913198",
+    "source": "https://dominfospb.ru/dom/9327462",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 71, к. П",
+    "date": "1911",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60913203",
+    "source": "https://dominfospb.ru/dom/6949333",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 85, к. В",
+    "date": "1873",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60946069",
+    "source": "https://dominfospb.ru/dom/8912555",
+    "address": "г. Санкт-Петербург, ул. Лахтинская, д. 21",
+    "date": "1970",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/60974114",
+    "source": "https://dominfospb.ru/dom/7044832",
+    "address": "г. Санкт-Петербург, ул. Михайлова, д. 12, к. В",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61282428",
+    "source": "https://dominfospb.ru/dom/7046629",
+    "address": "г. Санкт-Петербург, ул. Академика Лебедева, д. 20 лит. А",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61558107",
+    "source": "https://dominfospb.ru/dom/8922901",
+    "address": "г. Санкт-Петербург, пр-кт Чкаловский, д. 14, к. А",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61645772",
+    "source": "https://dominfospb.ru/dom/6713502",
+    "address": "г. Санкт-Петербург, ул. Большая Зеленина, д. 31/1, к. А",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61649290",
+    "source": "https://dominfospb.ru/dom/9357689",
+    "address": "г. Санкт-Петербург, ул. Захарьевская, д. 14, к. В",
+    "date": "1812",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61675764",
+    "source": "https://dominfospb.ru/dom/9155947",
+    "address": "г. Санкт-Петербург, пер. Дмитровский, д. 6, к. В",
+    "date": "1869",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61679127",
+    "source": "https://dominfospb.ru/dom/6942995",
+    "address": "г. Санкт-Петербург, пер. Дмитровский, д. 9, к. В",
+    "date": "1841",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61679151",
+    "source": "https://dominfospb.ru/dom/6943023",
+    "address": "г. Санкт-Петербург, пр-кт Владимирский, д. 8, к. Б",
+    "date": "1886",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61710974",
+    "source": "https://dominfospb.ru/dom/9351282",
+    "address": "г. Санкт-Петербург, ул. Ораниенбаумская, д. 21",
+    "date": "2000",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61738349",
+    "source": "https://dominfospb.ru/dom/6946800",
+    "address": "г. Санкт-Петербург, ул. Марата, д. 41, к. В",
+    "date": "1882",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61738350",
+    "source": "https://dominfospb.ru/dom/8349681",
+    "address": "г. Санкт-Петербург, ул. Марата, д. 37, к. Б",
+    "date": "1881",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61909159",
+    "source": "https://dominfospb.ru/dom/7035571",
+    "address": "г. Санкт-Петербург, ул. Разъезжая, д. 15, к. Д",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61909215",
+    "source": "https://dominfospb.ru/dom/7035563",
+    "address": "г. Санкт-Петербург, ул. Правды, д. 8, к. Б",
+    "date": "1837",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61909222",
+    "source": "https://dominfospb.ru/dom/7035545",
+    "address": "г. Санкт-Петербург, ул. Правды, д. 4, к. Б",
+    "date": "1869",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/61921769",
+    "source": "https://dominfospb.ru/dom/9367114",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 84, к. Б",
+    "date": "1876",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/62012469",
+    "source": "https://dominfospb.ru/dom/7036126",
+    "address": "г. Санкт-Петербург, ул. Марата, д. 67/17, к. Б",
+    "date": "1874",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/62057227",
+    "source": "https://dominfospb.ru/dom/7036726",
+    "address": "г. Санкт-Петербург, ул. Марата, д. 74, к. Л",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/63227487",
+    "source": "https://dominfospb.ru/dom/9110320",
+    "address": "г. Санкт-Петербург, ул. Подольская, д. 50, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/63634733",
+    "source": "https://dominfospb.ru/dom/9110368",
+    "address": "г. Санкт-Петербург, ул. Серпуховская, д. 44, к. Б",
+    "date": "1860",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/63673482",
+    "source": "https://dominfospb.ru/dom/8161316",
+    "address": "г. Санкт-Петербург, ул. Бронницкая, д. 44",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64156464",
+    "source": "https://dominfospb.ru/dom/7028053",
+    "address": "г. Санкт-Петербург, пр-кт Большой В.О., д. 99, к. Б",
+    "date": "1911",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64281712",
+    "source": "https://dominfospb.ru/dom/8797085",
+    "address": "г. Санкт-Петербург, ул. Гаванская, д. 29",
+    "date": "1930",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64281718",
+    "source": "https://dominfospb.ru/dom/7028760",
+    "address": "г. Санкт-Петербург, пр-кт Средний В.О., д. 99/18, к. Б",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64281728",
+    "source": "https://dominfospb.ru/dom/7028969",
+    "address": "г. Санкт-Петербург, ул. Наличная, д. 15, к. 2",
+    "date": "1972",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64300438",
+    "source": "https://dominfospb.ru/dom/9336889",
+    "address": "г. Санкт-Петербург, ул. Гаванская, д. 12, к. 2",
+    "date": "2000",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64387575",
+    "source": "https://dominfospb.ru/dom/7028469",
+    "address": "г. Санкт-Петербург, ул. Вёсельная, д. 4, к. Б",
+    "date": "1910",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64387609",
+    "source": "https://dominfospb.ru/dom/7028450",
+    "address": "г. Санкт-Петербург, ул. Вёсельная, д. 2/93, к. Б",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/64963446",
+    "source": "https://dominfospb.ru/dom/9110372",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 108, к. Е",
+    "date": "1914",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/65393778",
+    "source": "https://dominfospb.ru/dom/9061996",
+    "address": "г. Санкт-Петербург, ул. 3-я Красноармейская, д. 8, к. В",
+    "date": "1865",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/65393780",
+    "source": "https://dominfospb.ru/dom/9061995",
+    "address": "г. Санкт-Петербург, ул. 3-я Красноармейская, д. 8, к. Б",
+    "date": "1865",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/65395889",
+    "source": "https://dominfospb.ru/dom/6751154",
+    "address": "г. Санкт-Петербург, ул. Егорова, д. 16",
+    "date": "1910",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/65624630",
+    "source": "https://dominfospb.ru/dom/8139356",
+    "address": "г. Санкт-Петербург, пер. Большой Казачий, д. 3",
+    "date": "1896",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/65624731",
+    "source": "https://dominfospb.ru/dom/8139551",
+    "address": "г. Санкт-Петербург, пер. Большой Казачий, д. 5",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66110367",
+    "source": "https://dominfospb.ru/dom/6949499",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 76, к. Г",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66110374",
+    "source": "https://dominfospb.ru/dom/6949502",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 80/2, к. В",
+    "date": "1777",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66319510",
+    "source": "https://dominfospb.ru/dom/9069171",
+    "address": "г. Санкт-Петербург, ул. Миргородская, д. 24-28, к. В",
+    "date": "1960",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66319515",
+    "source": "https://dominfospb.ru/dom/7839903",
+    "address": "г. Санкт-Петербург, ул. Тележная, д. 13, к. 2",
+    "date": "2007",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66319516",
+    "source": "https://dominfospb.ru/dom/7708554",
+    "address": "г. Санкт-Петербург, ул. Тележная, д. 3",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66319522",
+    "source": "https://dominfospb.ru/dom/7712478",
+    "address": "г. Санкт-Петербург, ул. Харьковская, д. 8",
+    "date": "1892",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66319528",
+    "source": "https://dominfospb.ru/dom/8997357",
+    "address": "г. Санкт-Петербург, ул. Тележная, д. 3 Е",
+    "date": "1876",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66319539",
+    "source": "https://dominfospb.ru/dom/7708619",
+    "address": "г. Санкт-Петербург, ул. Тележная, д. 15",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/66534465",
+    "source": "https://dominfospb.ru/dom/9335121",
+    "address": "г. Санкт-Петербург, ул. Опочинина, д. 16",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/67385762",
+    "source": "https://dominfospb.ru/dom/6922343",
+    "address": "г. Санкт-Петербург, наб. Канала Грибоедова, д. 80",
+    "date": "1860",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/67385764",
+    "source": "https://dominfospb.ru/dom/6753667",
+    "address": "г. Санкт-Петербург, ул. Большая Подьяческая, д. 4",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/68750640",
+    "source": "https://dominfospb.ru/dom/9062008",
+    "address": "г. Санкт-Петербург, ул. 7-я Красноармейская, д. 3, к. Б",
+    "date": "1882",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/70128916",
+    "source": "https://dominfospb.ru/dom/9062007",
+    "address": "г. Санкт-Петербург, ул. 7-я Красноармейская, д. 22-24, к. Б",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/70128945",
+    "source": "https://dominfospb.ru/dom/9062087",
+    "address": "г. Санкт-Петербург, наб. Обводного канала, д. 155, к. Б",
+    "date": "1867",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/70539879",
+    "source": "https://dominfospb.ru/dom/9362317",
+    "address": "г. Санкт-Петербург, ул. Молдагуловой, д. 3, к. 2",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/70539883",
+    "source": "https://dominfospb.ru/dom/9362310",
+    "address": "г. Санкт-Петербург, ул. Молдагуловой, д. 3, к. 1",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/70836069",
+    "source": "https://dominfospb.ru/dom/9062012",
+    "address": "г. Санкт-Петербург, ул. 8-я Красноармейская, д. 5, к. Б",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/71731337",
+    "source": "https://dominfospb.ru/dom/9061980",
+    "address": "г. Санкт-Петербург, ул. 12-я Красноармейская, д. 21, к. В",
+    "date": "1876",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/71731338",
+    "source": "https://dominfospb.ru/dom/9061965",
+    "address": "г. Санкт-Петербург, ул. 11-я Красноармейская, д. 22, к. Б",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/74472742",
+    "source": "https://dominfospb.ru/dom/7651705",
+    "address": "г. Санкт-Петербург, пр-кт Лесной, д. 39, к. 3",
+    "date": "1932",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/77758994",
+    "source": "https://dominfospb.ru/dom/9062093",
+    "address": "г. Санкт-Петербург, пер. Прядильный, д. 4, к. Б",
+    "date": "1858",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/77759076",
+    "source": "https://dominfospb.ru/dom/9062078",
+    "address": "г. Санкт-Петербург, пер. Люблинский, д. 3, к. Б",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/77759099",
+    "source": "https://dominfospb.ru/dom/9062071",
+    "address": "г. Санкт-Петербург, ул. Лабутина, д. 10, к. Б",
+    "date": "1840",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/79421018",
+    "source": "https://dominfospb.ru/dom/9058765",
+    "address": "г. Санкт-Петербург, лн. 8-я В.О., д. 15, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/79421026",
+    "source": "https://dominfospb.ru/dom/7033980",
+    "address": "г. Санкт-Петербург, линия. 7-я В.О., д. 6",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/79421029",
+    "source": "https://dominfospb.ru/dom/9058715",
+    "address": "г. Санкт-Петербург, лн. 7-я В.О., д. 8, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/79421031",
+    "source": "https://dominfospb.ru/dom/9058766",
+    "address": "г. Санкт-Петербург, лн. 8-я В.О., д. 15, к. В",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/79421037",
+    "source": "https://dominfospb.ru/dom/9058760",
+    "address": "г. Санкт-Петербург, лн. 8-я В.О., д. 7, к. Б",
+    "date": "1897",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/79421045",
+    "source": "https://dominfospb.ru/dom/9058724",
+    "address": "г. Санкт-Петербург, лн. 7-я В.О., д. 12, к. Б",
+    "date": "1862",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80145932",
+    "source": "https://dominfospb.ru/dom/9058508",
+    "address": "г. Санкт-Петербург, пр-кт Большой В.О., д. 35, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80145967",
+    "source": "https://dominfospb.ru/dom/9046266",
+    "address": "г. Санкт-Петербург, линия. 7-я В.О., д. 44Б",
+    "date": "1958",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80145992",
+    "source": "https://dominfospb.ru/dom/7029846",
+    "address": "г. Санкт-Петербург, пр-кт Большой В.О., д. 33",
+    "date": "1874",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80146040",
+    "source": "https://dominfospb.ru/dom/9058818",
+    "address": "г. Санкт-Петербург, лн. 10-я В.О., д. 9, к. Б",
+    "date": "1869",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80146041",
+    "source": "https://dominfospb.ru/dom/9058809",
+    "address": "г. Санкт-Петербург, лн. 9-я В.О., д. 30, к. Г",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80146069",
+    "source": "https://dominfospb.ru/dom/7033575",
+    "address": "г. Санкт-Петербург, линия. 10-я В.О., д. 7",
+    "date": "1833",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80146093",
+    "source": "https://dominfospb.ru/dom/9058819",
+    "address": "г. Санкт-Петербург, лн. 10-я В.О., д. 9, к. В",
+    "date": "1869",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80146115",
+    "source": "https://dominfospb.ru/dom/9058739",
+    "address": "г. Санкт-Петербург, лн. 7-я В.О., д. 28, к. В",
+    "date": "1829",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80342991",
+    "source": "https://dominfospb.ru/dom/9062120",
+    "address": "г. Санкт-Петербург, ул. Садовая, д. 84, к. Б",
+    "date": "1898",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80343021",
+    "source": "https://dominfospb.ru/dom/9062072",
+    "address": "г. Санкт-Петербург, ул. Лабутина, д. 13, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/80424638",
+    "source": "https://dominfospb.ru/dom/9319788",
+    "address": "г. Санкт-Петербург, пр-кт Лермонтовский, д. 3, к. В",
+    "date": "1872",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/82587702",
+    "source": "https://dominfospb.ru/dom/8992645",
+    "address": "г. Санкт-Петербург, пр-кт Крестовский, д. 13, к. Б",
+    "date": "2003",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/82587715",
+    "source": "https://dominfospb.ru/dom/8992699",
+    "address": "г. Санкт-Петербург, пр-кт Крестовский, д. 13, к. А",
+    "date": "2003",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/83174640",
+    "source": "https://dominfospb.ru/dom/9319808",
+    "address": "г. Санкт-Петербург, пр-кт Рижский, д. 42, к. В",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/83382430",
+    "source": "https://dominfospb.ru/dom/9039162",
+    "address": "г. Санкт-Петербург, пр-кт Большой П.С., д. 33а, лит.В",
+    "date": "1900",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/83642665",
+    "source": "https://dominfospb.ru/dom/7357288",
+    "address": "г. Санкт-Петербург, ул. Ординарная, д. 7",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/83903296",
+    "source": "https://dominfospb.ru/dom/9344477",
+    "address": "г. Санкт-Петербург, ул. Большая Пушкарская, д. 54, к. Б",
+    "date": "1894",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/83903306",
+    "source": "https://dominfospb.ru/dom/9344488",
+    "address": "г. Санкт-Петербург, ул. Воскова, д. 4, к. Б",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84045848",
+    "source": "https://dominfospb.ru/dom/9058548",
+    "address": "г. Санкт-Петербург, лн. 1-я В.О., д. 10, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84045862",
+    "source": "https://dominfospb.ru/dom/9058546",
+    "address": "г. Санкт-Петербург, лн. 1-я В.О., д. 8, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84045898",
+    "source": "https://dominfospb.ru/dom/9071953",
+    "address": "г. Санкт-Петербург, лн. 3-я В.О., д. 14, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84045903",
+    "source": "https://dominfospb.ru/dom/9058460",
+    "address": "г. Санкт-Петербург, пр-кт Большой В.О., д. 5, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84045944",
+    "source": "https://dominfospb.ru/dom/9058636",
+    "address": "г. Санкт-Петербург, лн. 5-я В.О., д. 22, к. Б",
+    "date": "1868",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84045956",
+    "source": "https://dominfospb.ru/dom/9058686",
+    "address": "г. Санкт-Петербург, лн. 5-я В.О., д. 36, к. Б",
+    "date": "1893",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84045977",
+    "source": "https://dominfospb.ru/dom/9058543",
+    "address": "г. Санкт-Петербург, лн. 1-я В.О., д. 6, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84046015",
+    "source": "https://dominfospb.ru/dom/9071956",
+    "address": "г. Санкт-Петербург, лн. 3-я В.О., д. 26, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84046033",
+    "source": "https://dominfospb.ru/dom/9058607",
+    "address": "г. Санкт-Петербург, лн. 2-я В.О., д. 29, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84046067",
+    "source": "https://dominfospb.ru/dom/9058688",
+    "address": "г. Санкт-Петербург, лн. 5-я В.О., д. 36, к. В",
+    "date": "1893",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84046083",
+    "source": "https://dominfospb.ru/dom/9058639",
+    "address": "г. Санкт-Петербург, лн. 5-я В.О., д. 30, к. В",
+    "date": "1860",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84046156",
+    "source": "https://dominfospb.ru/dom/9058563",
+    "address": "г. Санкт-Петербург, лн. 1-я В.О., д. 32, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/84046220",
+    "source": "https://dominfospb.ru/dom/7032303",
+    "address": "г. Санкт-Петербург, линия. 2-я В.О., д. 17",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/85259282",
+    "source": "https://dominfospb.ru/dom/7931286",
+    "address": "г. Санкт-Петербург, ул. Старобельская, д. 4",
+    "date": "2004",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/85526335",
+    "source": "https://dominfospb.ru/dom/9023942",
+    "address": "г. Санкт-Петербург, ул. Лахтинская, д. 23, к. Б",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/86124548",
+    "source": "https://dominfospb.ru/dom/8663603",
+    "address": "г. Санкт-Петербург, наб. Морская, д. 39, к. 2",
+    "date": "2004",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/86217484",
+    "source": "https://dominfospb.ru/dom/7708474",
+    "address": "г. Санкт-Петербург, ул. Тверская, д. 14",
+    "date": "1888",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/86478155",
+    "source": "https://dominfospb.ru/dom/8955393",
+    "address": "г. Санкт-Петербург, пр-кт Средний В.О., д. 58/36",
+    "date": "1970",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/87021390",
+    "source": "https://dominfospb.ru/dom/7355985",
+    "address": "г. Санкт-Петербург, ул. Чайковского, д. 2/7, к. О",
+    "date": "1804",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/87136701",
+    "source": "https://dominfospb.ru/dom/6751767",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 235, к. Б",
+    "date": "1911",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/87294734",
+    "source": "https://dominfospb.ru/dom/8997010",
+    "address": "г. Санкт-Петербург, ул. Херсонская, д. 15-17 В",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/87563647",
+    "source": "https://dominfospb.ru/dom/8997232",
+    "address": "г. Санкт-Петербург, пер. Перекупной, д. 8 В",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/88222473",
+    "source": "https://dominfospb.ru/dom/6569451",
+    "address": "г. Санкт-Петербург, ул. Васенко, д. 3, к. 2",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/88718204",
+    "source": "https://dominfospb.ru/dom/8997313",
+    "address": "г. Санкт-Петербург, ул. Кирилловская, д. 17 Б",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/89579727",
+    "source": "https://dominfospb.ru/dom/7713725",
+    "address": "г. Санкт-Петербург, ул. 10-я Советская, д. 21",
+    "date": "1908",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/89579737",
+    "source": "https://dominfospb.ru/dom/7747543",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 52",
+    "date": "1885",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/89582366",
+    "source": "https://dominfospb.ru/dom/6751741",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 183, к. В",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/90864696",
+    "source": "https://dominfospb.ru/dom/8997046",
+    "address": "г. Санкт-Петербург, ул. 4-я Советская, д. 23 Б",
+    "date": "1895",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/91229161",
+    "source": "https://dominfospb.ru/dom/9061997",
+    "address": "г. Санкт-Петербург, ул. 4-я Красноармейская, д. 13, к. Ж",
+    "date": "1852",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/91384352",
+    "source": "https://dominfospb.ru/dom/9061999",
+    "address": "г. Санкт-Петербург, ул. 5-я Красноармейская, д. 19, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/91908133",
+    "source": "https://dominfospb.ru/dom/9319792",
+    "address": "г. Санкт-Петербург, пр-кт Московский, д. 45, к. В",
+    "date": "1867",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/93101026",
+    "source": "https://dominfospb.ru/dom/7744605",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 17",
+    "date": "1877",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/93101045",
+    "source": "https://dominfospb.ru/dom/7716072",
+    "address": "г. Санкт-Петербург, ул. 5-я Советская, д. 26",
+    "date": "1877",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/93101049",
+    "source": "https://dominfospb.ru/dom/7707106",
+    "address": "г. Санкт-Петербург, пр-кт Суворовский, д. 15",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/93101054",
+    "source": "https://dominfospb.ru/dom/7719521",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 19",
+    "date": "1894",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/93101064",
+    "source": "https://dominfospb.ru/dom/7719535",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 15/19",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/94814407",
+    "source": "https://dominfospb.ru/dom/6751690",
+    "address": "г. Санкт-Петербург, ул. Боровая, д. 62, к. Б",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/94933553",
+    "source": "https://dominfospb.ru/dom/9062061",
+    "address": "г. Санкт-Петербург, пр-кт Измайловский, д. 20, к. Ш",
+    "date": "1870",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/95091987",
+    "source": "https://dominfospb.ru/dom/9061984",
+    "address": "г. Санкт-Петербург, ул. 12-я Красноармейская, д. 6, к. Г",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96332944",
+    "source": "https://dominfospb.ru/dom/7575178",
+    "address": "г. Санкт-Петербург, ул. Восстания, д. 9",
+    "date": "1861",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96395845",
+    "source": "https://dominfospb.ru/dom/8997070",
+    "address": "г. Санкт-Петербург, ул. 5-я Советская, д. 38 Б",
+    "date": "1859",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96492046",
+    "source": "https://dominfospb.ru/dom/9319827",
+    "address": "г. Санкт-Петербург, пр-кт Старо-Петергофский, д. 21, к. В",
+    "date": "1929",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96576190",
+    "source": "https://dominfospb.ru/dom/7693505",
+    "address": "г. Санкт-Петербург, ул. Жуковского, д. 36, к. 1",
+    "date": "1838",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96598253",
+    "source": "https://dominfospb.ru/dom/9058895",
+    "address": "г. Санкт-Петербург, лн. 13-я В.О., д. 18, к. В",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96598261",
+    "source": "https://dominfospb.ru/dom/9058936",
+    "address": "г. Санкт-Петербург, лн. 14-я В.О., д. 25-27, к. З",
+    "date": "1876",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96598277",
+    "source": "https://dominfospb.ru/dom/9058899",
+    "address": "г. Санкт-Петербург, лн. 13-я В.О., д. 24, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/96964497",
+    "source": "https://dominfospb.ru/dom/7356079",
+    "address": "г. Санкт-Петербург, ул. Гагаринская, д. 15, к. Б",
+    "date": "1845",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97108853",
+    "source": "https://dominfospb.ru/dom/7356084",
+    "address": "г. Санкт-Петербург, ул. Гагаринская, д. 20, к. Б",
+    "date": "1860",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97108911",
+    "source": "https://dominfospb.ru/dom/7364878",
+    "address": "г. Санкт-Петербург, ул. Моховая, д. 7, к. Б",
+    "date": "1844",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97135759",
+    "source": "https://dominfospb.ru/dom/7744627",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 18/21",
+    "date": "1879",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97135766",
+    "source": "https://dominfospb.ru/dom/7745010",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 28",
+    "date": "1908",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97135799",
+    "source": "https://dominfospb.ru/dom/8997087",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 30 Б",
+    "date": "1880",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97135809",
+    "source": "https://dominfospb.ru/dom/7744876",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 26",
+    "date": "1886",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97135811",
+    "source": "https://dominfospb.ru/dom/8997082",
+    "address": "г. Санкт-Петербург, ул. 7-я Советская, д. 28 Б",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97548397",
+    "source": "https://dominfospb.ru/dom/7356013",
+    "address": "г. Санкт-Петербург, ул. Чайковского, д. 47, к. Ж",
+    "date": "1870",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97552154",
+    "source": "https://dominfospb.ru/dom/7359094",
+    "address": "г. Санкт-Петербург, ул. Кирочная, д. 4, к. Б",
+    "date": "1836",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97557666",
+    "source": "https://dominfospb.ru/dom/7359108",
+    "address": "г. Санкт-Петербург, ул. Кирочная, д. 18, к. Б",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97952885",
+    "source": "https://dominfospb.ru/dom/8997330",
+    "address": "г. Санкт-Петербург, ул. 1-я Советская, д. 10 В",
+    "date": "1868",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/97952897",
+    "source": "https://dominfospb.ru/dom/7700367",
+    "address": "г. Санкт-Петербург, пр-кт Невский, д. 126/2",
+    "date": "1883",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/98285124",
+    "source": "https://dominfospb.ru/dom/9319736",
+    "address": "г. Санкт-Петербург, пер. Дерптский, д. 9, к. Ж",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/98333879",
+    "source": "https://dominfospb.ru/dom/7692420",
+    "address": "г. Санкт-Петербург, пер. Гродненский, д. 17",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/98392858",
+    "source": "https://dominfospb.ru/dom/7364991",
+    "address": "г. Санкт-Петербург, ул. Чехова, д. 5, к. Д",
+    "date": "1838",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/98414568",
+    "source": "https://dominfospb.ru/dom/9108659",
+    "address": "г. Санкт-Петербург, ул. 9-я Советская, д. 16",
+    "date": "2008",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/99677572",
+    "source": "https://dominfospb.ru/dom/9062038",
+    "address": "г. Санкт-Петербург, ул. Галерная, д. 43, к. Б",
+    "date": "1869",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100114377",
+    "source": "https://dominfospb.ru/dom/9062032",
+    "address": "г. Санкт-Петербург, ул. Витебская, д. 2/7, к. Б",
+    "date": "1859",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100270115",
+    "source": "https://dominfospb.ru/dom/9062056",
+    "address": "г. Санкт-Петербург, пер. Дровяной, д. 14, к. Б",
+    "date": "1881",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100425837",
+    "source": "https://dominfospb.ru/dom/9062096",
+    "address": "г. Санкт-Петербург, ул. Псковская, д. 16, к. Б",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100436692",
+    "source": "https://dominfospb.ru/dom/9319782",
+    "address": "г. Санкт-Петербург, наб. Реки Пряжки, д. 40, к. Б",
+    "date": "1887",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100436700",
+    "source": "https://dominfospb.ru/dom/9319783",
+    "address": "г. Санкт-Петербург, наб. Реки Пряжки, д. 40, к. В",
+    "date": "1884",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100436728",
+    "source": "https://dominfospb.ru/dom/9062034",
+    "address": "г. Санкт-Петербург, ул. Витебская, д. 9, к. Б",
+    "date": "1889",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100439072",
+    "source": "https://dominfospb.ru/dom/7968140",
+    "address": "г. Санкт-Петербург, ул. Миллионная, д. 29",
+    "date": "1872",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100443736",
+    "source": "https://dominfospb.ru/dom/9319730",
+    "address": "г. Санкт-Петербург, ул. Витебская, д. 23, к. Б",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100443742",
+    "source": "https://dominfospb.ru/dom/9319754",
+    "address": "г. Санкт-Петербург, ул. Мясная, д. 5, к. Б",
+    "date": "1881",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/100443744",
+    "source": "https://dominfospb.ru/dom/9319729",
+    "address": "г. Санкт-Петербург, ул. Витебская, д. 21, к. Б",
+    "date": "1897",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101539866",
+    "source": "https://dominfospb.ru/dom/7714695",
+    "address": "г. Санкт-Петербург, ул. 4-я Советская, д. 7",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648211",
+    "source": "https://dominfospb.ru/dom/7746603",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 40",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648223",
+    "source": "https://dominfospb.ru/dom/7746421",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 32",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648238",
+    "source": "https://dominfospb.ru/dom/7746651",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 41",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648244",
+    "source": "https://dominfospb.ru/dom/7746677",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 42",
+    "date": "1914",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648250",
+    "source": "https://dominfospb.ru/dom/8997153",
+    "address": "г. Санкт-Петербург, пр-кт Суворовский, д. 47 В",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648256",
+    "source": "https://dominfospb.ru/dom/8997283",
+    "address": "г. Санкт-Петербург, пер. Дегтярный, д. 8-10 Б",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648264",
+    "source": "https://dominfospb.ru/dom/8997174",
+    "address": "г. Санкт-Петербург, пр-кт Суворовский, д. 43-45 Б",
+    "date": "1903",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648271",
+    "source": "https://dominfospb.ru/dom/7746577",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 38",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648296",
+    "source": "https://dominfospb.ru/dom/7746542",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 36",
+    "date": "1867",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648307",
+    "source": "https://dominfospb.ru/dom/7746480",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 34",
+    "date": "1911",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101648312",
+    "source": "https://dominfospb.ru/dom/8997243",
+    "address": "г. Санкт-Петербург, пер. Орловский, д. 5 Б",
+    "date": "1860",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/101812222",
+    "source": "https://dominfospb.ru/dom/8997248",
+    "address": "г. Санкт-Петербург, пер. Дегтярный, д. 1/8А Б",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/106471172",
+    "source": "https://dominfospb.ru/dom/7035943",
+    "address": "г. Санкт-Петербург, пр-кт Средний В.О., д. 46",
+    "date": "1882",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/106471173",
+    "source": "https://dominfospb.ru/dom/7033818",
+    "address": "г. Санкт-Петербург, линия. 12-я В.О., д. 21",
+    "date": "1889",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/106471211",
+    "source": "https://dominfospb.ru/dom/9058840",
+    "address": "г. Санкт-Петербург, лн. 11-я В.О., д. 24, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107214835",
+    "source": "https://dominfospb.ru/dom/9058513",
+    "address": "г. Санкт-Петербург, пр-кт Большой В.О., д. 44, к. Б",
+    "date": "1871",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107214866",
+    "source": "https://dominfospb.ru/dom/9058978",
+    "address": "г. Санкт-Петербург, лн. 16-я В.О., д. 11, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107421625",
+    "source": "https://dominfospb.ru/dom/9057912",
+    "address": "г. Санкт-Петербург, лн. 1-я В.О., д. 54, к. Б",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107421627",
+    "source": "https://dominfospb.ru/dom/9057976",
+    "address": "г. Санкт-Петербург, лн. 2-я В.О., д. 55, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107421645",
+    "source": "https://dominfospb.ru/dom/9057960",
+    "address": "г. Санкт-Петербург, наб. Макарова, д. 26, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107454312",
+    "source": "https://dominfospb.ru/dom/9059073",
+    "address": "г. Санкт-Петербург, наб. Макарова, д. 12, к. Б",
+    "date": "1900",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107671067",
+    "source": "https://dominfospb.ru/dom/8112980",
+    "address": "г. Санкт-Петербург, линия. Кадетская В.О., д. 1, к. 3",
+    "date": "2006",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107681752",
+    "source": "https://dominfospb.ru/dom/9058040",
+    "address": "г. Санкт-Петербург, лн. 4-я В.О., д. 53, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/107684771",
+    "source": "https://dominfospb.ru/dom/9058170",
+    "address": "г. Санкт-Петербург, лн. 4-я В.О., д. 61, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108099310",
+    "source": "https://dominfospb.ru/dom/9057937",
+    "address": "г. Санкт-Петербург, лн. 9-я В.О., д. 72, к. В",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108132171",
+    "source": "https://dominfospb.ru/dom/9058148",
+    "address": "г. Санкт-Петербург, лн. 9-я В.О., д. 46, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108202268",
+    "source": "https://dominfospb.ru/dom/9057990",
+    "address": "г. Санкт-Петербург, лн. 9-я В.О., д. 54, к. В",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108206382",
+    "source": "https://dominfospb.ru/dom/9058079",
+    "address": "г. Санкт-Петербург, лн. 13-я В.О., д. 64/39, к. В",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108206460",
+    "source": "https://dominfospb.ru/dom/9057945",
+    "address": "г. Санкт-Петербург, лн. 12-я В.О., д. 55/20, к. Б",
+    "date": "1854",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108219437",
+    "source": "https://dominfospb.ru/dom/9058152",
+    "address": "г. Санкт-Петербург, лн. 12-я В.О., д. 37, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108222664",
+    "source": "https://dominfospb.ru/dom/9057906",
+    "address": "г. Санкт-Петербург, пр-кт Малый В.О., д. 30-32, к. В",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108321775",
+    "source": "https://dominfospb.ru/dom/9057890",
+    "address": "г. Санкт-Петербург, лн. 16-я В.О., д. 75, к. В",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108321814",
+    "source": "https://dominfospb.ru/dom/9057889",
+    "address": "г. Санкт-Петербург, лн. 16-я В.О., д. 75, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108321817",
+    "source": "https://dominfospb.ru/dom/9058023",
+    "address": "г. Санкт-Петербург, лн. 16-я В.О., д. 77, к. Б",
+    "date": "1908",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108579704",
+    "source": "https://dominfospb.ru/dom/9058077",
+    "address": "г. Санкт-Петербург, лн. 13-я В.О., д. 46, к. А",
+    "date": "1934",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108579720",
+    "source": "https://dominfospb.ru/dom/8050647",
+    "address": "г. Санкт-Петербург, линия. 13-я В.О., д. 44, к. 3",
+    "date": "2002",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/108579755",
+    "source": "https://dominfospb.ru/dom/9058000",
+    "address": "г. Санкт-Петербург, лн. 13-я В.О., д. 46а, к. Б",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/109067010",
+    "source": "https://dominfospb.ru/dom/8922841",
+    "address": "г. Санкт-Петербург, ул. Съезжинская, д. 33, к. А",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/109067037",
+    "source": "https://dominfospb.ru/dom/8670797",
+    "address": "г. Санкт-Петербург, ул. Зверинская, д. 5Б",
+    "date": "1863",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/110346978",
+    "source": "https://dominfospb.ru/dom/9319821",
+    "address": "г. Санкт-Петербург, пр-кт Рижский, д. 70, к. Б",
+    "date": "1846",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/111679580",
+    "source": "https://dominfospb.ru/dom/8977420",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 6-8",
+    "date": "1936",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/111832246",
+    "source": "https://dominfospb.ru/dom/9058116",
+    "address": "г. Санкт-Петербург, лн. 16-я В.О., д. 49, к. В",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/112044998",
+    "source": "https://dominfospb.ru/dom/8997056",
+    "address": "г. Санкт-Петербург, ул. Таврическая, д. 29 Г",
+    "date": "1849",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/112134920",
+    "source": "https://dominfospb.ru/dom/7034144",
+    "address": "г. Санкт-Петербург, лн. 18-я В.О., д. 13, к. Б",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/113482756",
+    "source": "https://dominfospb.ru/dom/7359318",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 38, к. Д",
+    "date": "1847",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/114666971",
+    "source": "https://dominfospb.ru/dom/8997106",
+    "address": "г. Санкт-Петербург, ул. 8-я Советская, д. 10 Б",
+    "date": "1900",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/114786309",
+    "source": "https://dominfospb.ru/dom/7043944",
+    "address": "г. Санкт-Петербург, ул. Комсомола, д. 47, к. В",
+    "date": "1886",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/115017892",
+    "source": "https://dominfospb.ru/dom/8984949",
+    "address": "г. Санкт-Петербург, ул. Подрезова, д. 21",
+    "date": "2003",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/116527210",
+    "source": "https://dominfospb.ru/dom/9062094",
+    "address": "г. Санкт-Петербург, наб. Реки Пряжки, д. 28, к. В",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/124877575",
+    "source": "https://dominfospb.ru/dom/6751758",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 212, к. В",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/124877620",
+    "source": "https://dominfospb.ru/dom/6751756",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 212, к. Б",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/129211301",
+    "source": "https://dominfospb.ru/dom/8997143",
+    "address": "г. Санкт-Петербург, пер. Виленский, д. 4 Б",
+    "date": "1893",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/129413995",
+    "source": "https://dominfospb.ru/dom/7364948",
+    "address": "г. Санкт-Петербург, ул. Некрасова, д. 30, к. Б",
+    "date": "1893",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/129440985",
+    "source": "https://dominfospb.ru/dom/7356059",
+    "address": "г. Санкт-Петербург, пер. Басков, д. 10, к. Б",
+    "date": "1840",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/130662462",
+    "source": "https://dominfospb.ru/dom/6747035",
+    "address": "г. Санкт-Петербург, пер. Саперный, д. 10 Б",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/133051228",
+    "source": "https://dominfospb.ru/dom/7695004",
+    "address": "г. Санкт-Петербург, ул. Кирочная, д. 42",
+    "date": "1898",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/133173317",
+    "source": "https://dominfospb.ru/dom/7713099",
+    "address": "г. Санкт-Петербург, ул. Чайковского, д. 75",
+    "date": "1891",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/135316484",
+    "source": "https://dominfospb.ru/dom/8997321",
+    "address": "г. Санкт-Петербург, ул. Конная, д. 10 В",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/141566415",
+    "source": "https://dominfospb.ru/dom/9077769",
+    "address": "г. Санкт-Петербург, ул. Стахановцев, д. 13, к. А",
+    "date": "1938",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/141634138",
+    "source": "https://dominfospb.ru/dom/9062055",
+    "address": "г. Санкт-Петербург, ул. Декабристов, д. 56, к. В",
+    "date": "1890",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/141656186",
+    "source": "https://dominfospb.ru/dom/8637778",
+    "address": "г. Санкт-Петербург, пр-кт Большеохтинский, д. 9",
+    "date": "2010",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/142172774",
+    "source": "https://dominfospb.ru/dom/7020989",
+    "address": "г. Санкт-Петербург, пр-кт Московский, д. 74, к. Ж",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/143043600",
+    "source": "https://dominfospb.ru/dom/9110323",
+    "address": "г. Санкт-Петербург, ул. Серпуховская, д. 9, к. Б",
+    "date": "1891",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/143685540",
+    "source": "https://dominfospb.ru/dom/6922368",
+    "address": "г. Санкт-Петербург, пер. Гривцова, д. 20",
+    "date": "1756",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/143705700",
+    "source": "https://dominfospb.ru/dom/7572782",
+    "address": "г. Санкт-Петербург, лн. 26-я В.О., д. 15, к. Б",
+    "date": "2012",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/145263559",
+    "source": "https://dominfospb.ru/dom/9062067",
+    "address": "г. Санкт-Петербург, пер. Климов, д. 7, к. Б",
+    "date": "1840",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/145424338",
+    "source": "https://dominfospb.ru/dom/8997181",
+    "address": "г. Санкт-Петербург, пр-кт Суворовский, д. 38 Б",
+    "date": "1911",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/145612338",
+    "source": "https://dominfospb.ru/dom/8996110",
+    "address": "г. Санкт-Петербург, наб. Песочная, д. 12",
+    "date": "2005",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/149531013",
+    "source": "https://dominfospb.ru/dom/6922249",
+    "address": "г. Санкт-Петербург, ул. Коли Томчака, д. 1/6, к. Л",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/156155110",
+    "source": "https://dominfospb.ru/dom/7359308",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 24, к. В",
+    "date": "1874",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/156230021",
+    "source": "https://dominfospb.ru/dom/8790070",
+    "address": "г. Санкт-Петербург, ул. Дибуновская, д. 26",
+    "date": "2013",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/157528267",
+    "source": "https://dominfospb.ru/dom/9344537",
+    "address": "г. Санкт-Петербург, ул. Плуталова, д. 13, к. Б",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/157528269",
+    "source": "https://dominfospb.ru/dom/7357090",
+    "address": "г. Санкт-Петербург, ул. Бармалеева, д. 15",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/160229195",
+    "source": "https://dominfospb.ru/dom/7036048",
+    "address": "г. Санкт-Петербург, линия. 20-я В.О., д. 15",
+    "date": "1893",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/160229197",
+    "source": "https://dominfospb.ru/dom/7030459",
+    "address": "г. Санкт-Петербург, пр-кт Большой В.О., д. 58/17",
+    "date": "1958",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/161599743",
+    "source": "https://dominfospb.ru/dom/6751624",
+    "address": "г. Санкт-Петербург, ул. Воронежская, д. 57, к. Б",
+    "date": "1881",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/163001744",
+    "source": "https://dominfospb.ru/dom/9145234",
+    "address": "г. Санкт-Петербург, пр-кт Каменноостровский, д. 27, к. Б",
+    "date": "1952",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/163615879",
+    "source": "https://dominfospb.ru/dom/7020891",
+    "address": "г. Санкт-Петербург, ул. Смоленская, д. 29, к. Д",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/163856671",
+    "source": "https://dominfospb.ru/dom/7572542",
+    "address": "г. Санкт-Петербург, пр-кт Приморский, д. 137, к. 1",
+    "date": "2007",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/164083102",
+    "source": "https://dominfospb.ru/dom/8997145",
+    "address": "г. Санкт-Петербург, пер. Виленский, д. 6 Б",
+    "date": "1899",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/177439035",
+    "source": "https://dominfospb.ru/dom/9096125",
+    "address": "г. Санкт-Петербург, ул. Смольного, д. 4, к. 3",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/177439047",
+    "source": "https://dominfospb.ru/dom/9096124",
+    "address": "г. Санкт-Петербург, наб. Смольная, д. 8, к. 2",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/177439049",
+    "source": "https://dominfospb.ru/dom/9096126",
+    "address": "г. Санкт-Петербург, ул. Смольного, д. 4, к. 2",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/192184671",
+    "source": "https://dominfospb.ru/dom/8035104",
+    "address": "г. Санкт-Петербург, пр-кт Среднеохтинский, д. 23, к. 2",
+    "date": "2006",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/193657001",
+    "source": "https://dominfospb.ru/dom/9095525",
+    "address": "г. Санкт-Петербург, пр-кт Приморский, д. 43",
+    "date": "2014",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/200947024",
+    "source": "https://dominfospb.ru/dom/9373668",
+    "address": "г. Санкт-Петербург, пер. Офицерский, д. 8, к. 2",
+    "date": "2017",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/201950773",
+    "source": "https://dominfospb.ru/dom/8925985",
+    "address": "г. Санкт-Петербург, наб. Морская, д. 31, к. 1",
+    "date": "1998",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/203405589",
+    "source": "https://dominfospb.ru/dom/8954625",
+    "address": "г. Санкт-Петербург, пр-кт Медиков, д. 10, к. 4",
+    "date": "2014",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/215262510",
+    "source": "https://dominfospb.ru/dom/6943013",
+    "address": "г. Санкт-Петербург, пер. Дмитровский, д. 17, к. Б",
+    "date": "1860",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/216655317",
+    "source": "https://dominfospb.ru/dom/9358120",
+    "address": "г. Санкт-Петербург, пер. Биржевой, д. 6, к. Б",
+    "date": "2006",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/219138910",
+    "source": "https://dominfospb.ru/dom/7364912",
+    "address": "г. Санкт-Петербург, ул. Моховая, д. 44, к. В",
+    "date": "1858",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/219138911",
+    "source": "https://dominfospb.ru/dom/7364911",
+    "address": "г. Санкт-Петербург, ул. Моховая, д. 44, к. Б",
+    "date": "1858",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/219145716",
+    "source": "https://dominfospb.ru/dom/7364903",
+    "address": "г. Санкт-Петербург, ул. Моховая, д. 32, к. Г",
+    "date": "1858",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/219146569",
+    "source": "https://dominfospb.ru/dom/7364897",
+    "address": "г. Санкт-Петербург, ул. Моховая, д. 30, к. Б",
+    "date": "1829",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/223249794",
+    "source": "https://dominfospb.ru/dom/9348630",
+    "address": "г. Санкт-Петербург, ул. Академика Павлова, д. 6, к. 1",
+    "date": "2017",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/224904400",
+    "source": "https://dominfospb.ru/dom/6751726",
+    "address": "г. Санкт-Петербург, пр-кт Лиговский, д. 164, к. Б",
+    "date": "1893",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/248349859",
+    "source": "https://dominfospb.ru/dom/8921921",
+    "address": "г. Санкт-Петербург, пр-кт Петровский, д. 20, к. 6",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/249248826",
+    "source": "https://dominfospb.ru/dom/7034017",
+    "address": "г. Санкт-Петербург, ул. Черняховского, д. 33, к. В",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/261074686",
+    "source": "https://dominfospb.ru/dom/9039090",
+    "address": "г. Санкт-Петербург, пр-кт Маршала Блюхера, д. 8, к. 1",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/292434295",
+    "source": "https://dominfospb.ru/dom/8996997",
+    "address": "г. Санкт-Петербург, ул. 10-я Советская, д. 13 Б",
+    "date": "1901",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/293446175",
+    "source": "https://dominfospb.ru/dom/8997296",
+    "address": "г. Санкт-Петербург, ул. Моисеенко, д. 8Б В",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/293446176",
+    "source": "https://dominfospb.ru/dom/8997298",
+    "address": "г. Санкт-Петербург, ул. Моисеенко, д. 8Б Б",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/295784829",
+    "source": "https://dominfospb.ru/dom/9110762",
+    "address": "г. Санкт-Петербург, пр-кт Большой В.О., д. 84",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/302750873",
+    "source": "https://dominfospb.ru/dom/6946913",
+    "address": "г. Санкт-Петербург, ул. Марата, д. 34, к. В",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/302750875",
+    "source": "https://dominfospb.ru/dom/6946912",
+    "address": "г. Санкт-Петербург, ул. Марата, д. 34, к. Б",
+    "date": "1902",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/308901305",
+    "source": "https://dominfospb.ru/dom/9335005",
+    "address": "г. Санкт-Петербург, ул. Республиканская, д. 24, к. 1",
+    "date": "2016",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/329724170",
+    "source": "https://dominfospb.ru/dom/9346275",
+    "address": "г. Санкт-Петербург, ул. Красуцкого, д. 3, к. 2",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/389216730",
+    "source": "https://dominfospb.ru/dom/9318454",
+    "address": "г. Санкт-Петербург, наб. Лейтенанта Шмидта, д. 21",
+    "date": "2015",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/426974523",
+    "source": "https://dominfospb.ru/dom/9269304",
+    "address": "г. Санкт-Петербург, ул. Грота, д. 1-3, к. Г",
+    "date": "2016",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/453255009",
+    "source": "https://dominfospb.ru/dom/9333010",
+    "address": "г. Санкт-Петербург, ул. Тамбовская, д. 7, к. 2",
+    "date": "2016",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/469980606",
+    "source": "https://dominfospb.ru/dom/7359124",
+    "address": "г. Санкт-Петербург, пер. Ковенский, д. 9, к. В",
+    "date": "1875",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/483189019",
+    "source": "https://dominfospb.ru/dom/6751556",
+    "address": "г. Санкт-Петербург, ул. Днепропетровская, д. 63, к. Б",
+    "date": "1890",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/513553155",
+    "source": "https://dominfospb.ru/dom/9372562",
+    "address": "г. Санкт-Петербург, ул. Ждановская, д. 43, к. 2",
+    "date": "2018",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/532581942",
+    "source": "https://dominfospb.ru/dom/8134116",
+    "address": "г. Санкт-Петербург, ул. Капитанская, д. 5",
+    "date": "1993",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/537498528",
+    "source": "https://dominfospb.ru/dom/9323941",
+    "address": "г. Санкт-Петербург, наб. Реки Фонтанки, д. 76, к. 2",
+    "date": "1915",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/631232617",
+    "source": "https://dominfospb.ru/dom/7027002",
+    "address": "г. Санкт-Петербург, ул. Разъезжая, д. 42/34, к. Б",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/685082366",
+    "source": "https://dominfospb.ru/dom/9379247",
+    "address": "г. Санкт-Петербург, ул. Одоевского, д. 21, к. 1",
+    "date": "2019",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/768390014",
+    "source": "https://dominfospb.ru/dom/9058891",
+    "address": "г. Санкт-Петербург, лн. 13-я В.О., д. 10, к. Г",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/809455285",
+    "source": "https://dominfospb.ru/dom/9023940",
+    "address": "г. Санкт-Петербург, ул. Лахтинская, д. 6, к. В",
+    "date": "1900",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/826205143",
+    "source": "https://dominfospb.ru/dom/9335186",
+    "address": "г. Санкт-Петербург, ул. Кременчугская, д. 11, к. 3",
+    "date": "2016",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/836527750",
+    "source": "https://dominfospb.ru/dom/7364887",
+    "address": "г. Санкт-Петербург, ул. Моховая, д. 14, к. В",
+    "date": "1885",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/864705614",
+    "source": "https://dominfospb.ru/dom/9110311",
+    "address": "г. Санкт-Петербург, ул. Можайская, д. 14, к. Б",
+    "date": "1905",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/865368378",
+    "source": "https://dominfospb.ru/dom/9110312",
+    "address": "г. Санкт-Петербург, ул. Можайская, д. 28, к. Б",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/865496513",
+    "source": "https://dominfospb.ru/dom/9110313",
+    "address": "г. Санкт-Петербург, ул. Можайская, д. 30, к. Б",
+    "date": "1917",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/915222968",
+    "source": "https://dominfospb.ru/dom/9319817",
+    "address": "г. Санкт-Петербург, пр-кт Рижский, д. 60, к. Ж",
+    "date": "1904",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/919748922",
+    "source": "https://dominfospb.ru/dom/9344536",
+    "address": "г. Санкт-Петербург, ул. Ординарная, д. 7, к. Б",
+    "date": "1907",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1034955237",
+    "source": "https://dominfospb.ru/dom/7572569",
+    "address": "г. Санкт-Петербург, ул. Большая Московская, д. 11, к. Б",
+    "date": "1844",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1085097939",
+    "source": "https://dominfospb.ru/dom/7356070",
+    "address": "г. Санкт-Петербург, ул. Гагаринская, д. 3, к. Д",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1111617361",
+    "source": "https://dominfospb.ru/dom/6931251",
+    "address": "г. Санкт-Петербург, пер. Кузнечный, д. 14б, к. Ж",
+    "date": "1857",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1111617362",
+    "source": "https://dominfospb.ru/dom/6931253",
+    "address": "г. Санкт-Петербург, пер. Кузнечный, д. 14б, к. Б",
+    "date": "1912",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1120136565",
+    "source": "https://dominfospb.ru/dom/9344508",
+    "address": "г. Санкт-Петербург, ул. Куйбышева, д. 6, к. В",
+    "date": "1879",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1133950455",
+    "source": "https://dominfospb.ru/dom/9319802",
+    "address": "г. Санкт-Петербург, ул. Якубовича, д. 22, к. В",
+    "date": "1914",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1160848549",
+    "source": "https://dominfospb.ru/dom/8985432",
+    "address": "г. Санкт-Петербург, ул. Астраханская, д. 30, к. В",
+    "date": "1914",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1164805442",
+    "source": "https://dominfospb.ru/dom/9339356",
+    "address": "г. Санкт-Петербург, ул. Галерная, д. 57, к. Г",
+    "date": "1857",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1179794522",
+    "source": "https://dominfospb.ru/dom/7036972",
+    "address": "г. Санкт-Петербург, ул. Разъезжая, д. 31, к. В",
+    "date": "1863",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1255679698",
+    "source": "https://dominfospb.ru/dom/6941858",
+    "address": "г. Санкт-Петербург, ул. Марата, д. 20, к. Г",
+    "date": "1877",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1256346370",
+    "source": "https://dominfospb.ru/dom/7036119",
+    "address": "г. Санкт-Петербург, ул. Разъезжая, д. 17, к. Г",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1257550801",
+    "source": "https://dominfospb.ru/dom/7702860",
+    "address": "г. Санкт-Петербург, наб. Синопская, д. 26",
+    "date": "1841",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1260702927",
+    "source": "https://dominfospb.ru/dom/9062111",
+    "address": "г. Санкт-Петербург, ул. Садовая, д. 125, к. К",
+    "date": "1828",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1304999287",
+    "source": "https://dominfospb.ru/dom/7031942",
+    "address": "г. Санкт-Петербург, ул. Черняховского, д. 53, к. В",
+    "date": "1906",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1371370630",
+    "source": "https://dominfospb.ru/dom/6946590",
+    "address": "г. Санкт-Петербург, ул. Достоевского, д. 12, к. Б",
+    "date": "1858",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1427821714",
+    "source": "https://dominfospb.ru/dom/6946908",
+    "address": "г. Санкт-Петербург, ул. Коломенская, д. 11, к. Б",
+    "date": "1916",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1427926067",
+    "source": "https://dominfospb.ru/dom/6962914",
+    "address": "г. Санкт-Петербург, ул. Коломенская, д. 30, к. Б",
+    "date": "1950",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1427926068",
+    "source": "https://dominfospb.ru/dom/6962474",
+    "address": "г. Санкт-Петербург, ул. Коломенская, д. 28, к. Д",
+    "date": "1886",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  },
+  {
+    "id": "way/1547720544",
+    "source": "https://dominfospb.ru/dom/7358984",
+    "address": "г. Санкт-Петербург, ул. Жуковского, д. 26, к. Б",
+    "date": "1879",
+    "kind": "dominfo",
+    "title": "DominfoSPb · год постройки жилого дома",
+    "match": "unique-exact-address"
+  }
+]
